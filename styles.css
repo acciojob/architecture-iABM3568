@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container {
+            width: 1100px;
+            margin: 0 auto;
+}
+.imageContainer {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+.imageContainer img {
+            width: 100%;
+            height: auto;
+            display: block;
+table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
